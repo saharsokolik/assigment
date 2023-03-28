@@ -4,6 +4,10 @@ Created on Tue Mar 21 20:23:09 2023
 
 @author: sahar
 """
+
+#SAHAR SOKOLIK
+#205937287
+
 ##Question1:
     
 # def my_func(x1,x2,x3):
